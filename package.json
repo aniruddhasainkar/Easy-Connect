@@ -2,7 +2,7 @@
   "name": "easy-connect",
   "version": "1.0.0",
   "description": "Easy connect is an Interactive app which has ability to instantly text a friend, video call  and even advance feature like share screen.",
-  "main": "index.js",
+ 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
